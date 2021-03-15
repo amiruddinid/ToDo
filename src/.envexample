@@ -1,0 +1,7 @@
+FIREBASE_API_KEY=<apikey>
+FIREBASE_DOMAIN=example.firebaseapp.com
+FIREBASE_PROJECT_ID=example
+FIREBASE_STORAGE_BUCKET=example.appspot.com
+FIREBASE_SENDER_ID=<senderid>
+FIREBASE_APP_ID=<appid>
+FIREBASE_MEASUREMENT_ID=<measurementId>
